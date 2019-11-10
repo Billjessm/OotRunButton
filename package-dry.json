@@ -1,0 +1,13 @@
+{
+  "name": "OotRunButton",
+  "version": "1.0.0",
+  "description": "Hold run button to move faster.",
+  "main": "OotRunButton.js",
+  "author": "SpiceyWolf",
+  "credits": "",
+  "license": "GPL3",
+  "core": "OcarinaofTime",
+  "dry": {
+    "extends": "./ModLoader64/package-dry.json"
+  }
+}
